@@ -1,0 +1,44 @@
+[
+  {
+    "chapter": 1,
+    "title": "ClassMate\u2019s First Day",
+    "file": "01_classmates-first-day.mp4",
+    "duration_seconds": 450.479667,
+    "sha256": "2b1a9b4d3ae9c932b74a4f28c8505e74cb4ed0d9e20ff82af93cc661929228c0"
+  },
+  {
+    "chapter": 2,
+    "title": "The Sensing Lab",
+    "file": "02_the-sensing-lab.mp4",
+    "duration_seconds": 400.979667,
+    "sha256": "3b743b8ae0fea08807da1cd717467d8ce48943c5c7973b1c53d4605743022b71"
+  },
+  {
+    "chapter": 3,
+    "title": "Patterns, Pickles, and Pencils",
+    "file": "03_patterns-pickles-and-pencils.mp4",
+    "duration_seconds": 393.479333,
+    "sha256": "a624cf2cb36bb59e0cb32a360ac68209148e6952c971d05a7d406a64e61a912a"
+  },
+  {
+    "chapter": 4,
+    "title": "Learning How to Choose the Perfect Book",
+    "file": "04_choosing-the-perfect-book.mp4",
+    "duration_seconds": 397.313,
+    "sha256": "50ae82f7d8ca964beacbe8769fe7b54a43017ace372a8e5c6a0430ec5bb59243"
+  },
+  {
+    "chapter": 5,
+    "title": "The Day We Trained a Robot",
+    "file": "05_the-day-we-trained-a-robot.mp4",
+    "duration_seconds": 384.563,
+    "sha256": "aca0cfe8ce253ba71dca8d4297fb349b3f856844920bc8614fe9ba2c367ecb0c"
+  },
+  {
+    "chapter": 6,
+    "title": "People and Machines Learning Together",
+    "file": "06_people-and-machines-learning-together.mp4",
+    "duration_seconds": 365.021333,
+    "sha256": "0306496cbd8fed71ea76fb13796101daa4d60570d2e255caa9f96036b437c19f"
+  }
+]
